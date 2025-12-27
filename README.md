@@ -8,3 +8,5 @@ pip install -r requirements.txt
 
 ## 安装torch
 pip install torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+## 微调操作的优化操作
